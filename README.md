@@ -1,12 +1,11 @@
 # Offers Generator
 
 ## Overview
-This photoshop script is mainly used to generate any type of designs with the same background but with different content or text faster than ever.
-It saves about 65% of the time and 30% of the storage needed to finish this type of tasks.
+This powerful Photoshop script revolutionizes the design process by enabling the rapid generation of various designs with consistent backgrounds but different content or text. It significantly boosts efficiency, saving approximately 65% of the time typically required for such tasks and reducing storage needs by 30%.
 
-The project was made for a particular case, but after that, it was developed to be generic for any case.
+Initially developed for a specific use case, this project has evolved into a versatile tool applicable to any design scenario. Its flexibility and adaptability make it an invaluable asset for designers seeking to streamline their workflow and achieve remarkable results in less time.
 
-## Cases to use it
+## Capabilities
 - Generating different designs with the same background.
 - Generating different backgrounds, text with the same layout.
 - Generating different text for the same design. (already exists in photoshop).
